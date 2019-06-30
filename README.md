@@ -3,7 +3,8 @@
 This repository exists to parlay my final to the internet
 
 ##Link to demonstration page (i.e. Github Pages)
-[Check it out!](https://github.com/njj2113/Final5003NJ)
+[Check it out! It doesn't run well this way](https://njj2113.github.io/Final5003NJ/)
+[The whole repository](https://github.com/njj2113/Final5003NJ)
 
 ##Here's the direct live link:
 [Check it out in another way!](https://codepen.io/njj2113/live/zVpzwr)
